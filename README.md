@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 IAM SHUBHAM TIWARI:
 I’m a passionate Frontend Developer who loves turning ideas into interactive and user friendly web experiences. I enjoy building clean, responsive, and visually appealing interfaces that not only look good but also perform smoothly.<br><br>💻 I specialize in HTML, CSS, JavaScript, React, and modern UI design principles.<br>🚀 I focus on writing clean code and creating seamless user experiences.<br>📱 I build responsive websites that work perfectly across all devices.<br>🌱 I’m continuously learning new technologies to improve my development skills.<br><br>I believe great design combined with efficient functionality creates powerful digital experiences. I am always open to collaboration and exciting frontend projects.
 
 
